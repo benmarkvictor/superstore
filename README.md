@@ -120,7 +120,7 @@ Dashboard Preview
 
 Click the image below to view the complete interactive dashboard.
 
-![Superstore Dashboard](images/superstore-dashboard.png)
+![Superstore Dashboard](store.png)
 
 ---
 
