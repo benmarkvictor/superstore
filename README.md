@@ -143,15 +143,11 @@ Project Structure
 ```text
 Superstore-Dashboard/
 │
-├── Data/
-│   ├── Superstore_Data.xlsx
-│   └── Cleaned_Data.xlsx
-│
 ├── Dashboard/
 │   └── Sample data store.twbx
 │
 ├── Images/
-│   └── tore.png
+│   └── store.png
 │
 └── README.md
 ```
