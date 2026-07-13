@@ -120,7 +120,7 @@ Dashboard Preview
 
 Click the image below to view the complete interactive dashboard.
 
-![Superstore Dashboard](store.png)
+![Superstore Dashboard](https://github.com/benmarkvictor/superstore/blob/main/store.png)
 
 ---
 
