@@ -148,10 +148,10 @@ Superstore-Dashboard/
 │   └── Cleaned_Data.xlsx
 │
 ├── Dashboard/
-│   └── Superstore Dashboard.twbx
+│   └── Sample data store.twbx
 │
 ├── Images/
-│   └── superstore-dashboard.png
+│   └── tore.png
 │
 └── README.md
 ```
